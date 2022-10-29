@@ -9,6 +9,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
+    text-transform: uppercase;
 }
 
 .container-menu-title hr {
