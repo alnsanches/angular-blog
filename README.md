@@ -1,6 +1,8 @@
-# AngularBlog
+# Halloween Blog 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+
+![screencapture-localhost-4200-2022-10-29-10_03_15](https://user-images.githubusercontent.com/96800792/198833109-e7284eec-3d6b-475f-a480-3c1efd5d8f07.png)
 
 ## Development server
 
